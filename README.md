@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# 🥗 FoodLens IA - Nutricionista Digital & Scanner Inteligente
+#🥗 FoodLens IA - Nutricionista Digital & Scanner Inteligente
 
 O **FoodLens IA** é um sistema de scanner nutricional inteligente em tempo real que utiliza a webcam do computador e a API do **Google Gemini 2.5 Flash** (Vision) para identificar alimentos, analisar sua segurança para consumo, avaliar sua saudabilidade e estimar sua tabela nutricional.
 
@@ -147,7 +147,8 @@ Se você receber a mensagem de erro **`Limite de requisições excedido (Erro 42
    * Clique em **Generative Language API** na listagem e mude para a aba **Cotas e limites do sistema** (Quotas & System Limits).
    * Você verá um gráfico mostrando exatamente o número de requisições realizadas no dia e a quantidade restante.
 
-#   F o o d L e n s - I a  
+#   F o o d L e n s - I a 
+ 
  
 =======
 # FoodLens_IA
