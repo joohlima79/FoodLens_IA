@@ -73,7 +73,7 @@ Para rodar este projeto no Linux (Ubuntu/Debian e semelhantes), você precisará
 
 1. Acesse a pasta do projeto:
    ```bash
-   cd /home/eduardo/Documentos/Projetos/Gordo
+   cd /home/joandersonB/Documentos/Projetos/FoodLens_AI
    ```
 
 2. Crie e ative o ambiente virtual do Python:
