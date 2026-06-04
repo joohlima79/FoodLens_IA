@@ -1,0 +1,7 @@
+# Ambientes virtuais
+.venv/
+__pycache__/
+*.pyc
+
+# Arquivo de configurações locais (Chaves de API)
+.env
